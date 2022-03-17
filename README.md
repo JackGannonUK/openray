@@ -4,10 +4,10 @@
 
 ## **<ins>What is it?</ins>**
 
-Openray is a completely rust written kernel, written from the group up.
+Openray is a completely rust written kernel, written from the ground up. With no external dependencies required, this is a sleek raytracer that can be run from your very terminal.
 
 ## **<ins>Why?</ins>**
 
-Openray is an attempt to showcase rust, to show it's speed, simplicity and memory management.
+Openray is an attempt to showcase rust, to show it's speed, simplicity and memory management. Rust is becoming popular, we are adapting with it.
 
 ## <p align="center">**Read our <a href="https://github.com/JackGannonUK/openray/blob/main/documentation.md">Documentation</a>**</p>
