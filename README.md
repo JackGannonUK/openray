@@ -1,6 +1,6 @@
 # <p align="center">Openray</p>
 
-<img align="right" width="400" height="400" src="https://github.com/JackGannonUK/openray/blob/main/imgs/openray.svg">
+<img align="right" width="400" height="400" src="https://github.com/JackGannonUK/openray/blob/main/img/openray.svg">
 
 ## **<ins>What is it?</ins>**
 
